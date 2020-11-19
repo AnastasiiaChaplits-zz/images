@@ -8,7 +8,7 @@
         <a class="item">Upload</a>
         <a class="item" @click="logout">Logout</a>
       </div>
-      <a href="#" class="ui item" @click="login" v-else> Login </a>
+      <a href="#" class="ui item" @click="login" v-else>Login</a>
     </div>
   </div>
 </template>
